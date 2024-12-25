@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 308.5
   },
   "right": {
     "id": "d72c7fba5cc349ff",
@@ -164,6 +164,10 @@
   },
   "active": "f98d705f2f69426f",
   "lastOpenFiles": [
+    "Post/2024-01-19-蛋糕与包装：关于实质重于形式的思考.md",
+    "Post/2024-08-24-聊点游戏.md",
+    "Post/2024-08-16-生命周期.md",
+    "Post/2024-08-15-PEST模型.md",
     "Post/2024-09-26-税务自查｜如何撰写自查报告（模版）.md",
     "Post/2024-09-27-权利、金钱、欲望｜互联网的力量.md",
     "Post/2024-12-26-基础知识｜会计的本质.md",
